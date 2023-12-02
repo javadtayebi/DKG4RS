@@ -5,7 +5,7 @@
 Introduced and employed in:
 > https://github.com/javadtayebi/EKGDR
 
-### Features
+## Features
 
 |||DKG4RS|
 | :-------------------: | :------------ | ----------: |
