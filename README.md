@@ -7,7 +7,6 @@ Introduced and employed in:
 
 ## Features
 
-|||DKG4RS|
 | :-------------------: | :------------ | ----------: |
 | Disease-Drug Interaction | #Diseases        |      1,229 |
 |                       | #Drugs        |      1,509 |
