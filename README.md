@@ -23,7 +23,7 @@ DKG4RS, a comprehensive drug knowledge graph, constructed for knowledge graph ba
 - `disease_drug_interactions.txt`
 	- disease-drug interactions file
 	- Extracted from [repoDB](https://unmtid-shinyapps.net/shiny/repodb/).
-	- Each row is a disease with its approved positive (observed/known) interactions with drugs
+	- Each row is a disease with its approved positive (observed/known) interactions with drugs.
 
 - `kg_final.txt`
 	- Knowledge Graph (KG) triplets file
