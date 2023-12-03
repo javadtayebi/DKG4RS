@@ -5,6 +5,10 @@
 Introduced and employed in:
 > https://github.com/javadtayebi/EKGDR
 
+## Introduction
+
+DKG4RS, a comprehensive drug knowledge graph, constructed for knowledge graph based drug recommendation. Drug knowledge graph serves as side-information alongside disease-drug interactions, to predict (score) potential interactions between diseases and drugs.
+
 ## Features
 
 |||DKG4RS|
