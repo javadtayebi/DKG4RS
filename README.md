@@ -1,6 +1,6 @@
 # DKG4RS
 
-## DKG4RS: Drug Knowledge Graph for Recommender Systems.
+## DKG4RS: Drug Knowledge Graph for Recommender Systems
 
 Introduced and employed in:
 > https://github.com/javadtayebi/EKGDR
